@@ -10,4 +10,10 @@ public class SelectPanel {
         return 100;
 
     }
+
+    private int WrongPanelSelected(){
+
+        return -1;
+
+    }
 }
